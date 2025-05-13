@@ -1,10 +1,11 @@
 <h1 align="center">Hi there, I'm Dul Devith 👋</h1>
 
 <p align="center">
-  <a href="https://your-portfolio.com">🌐 Portfolio</a> |
-  <a href="mailto:youremail@example.com">📧 Email</a> |
-  <a href="https://www.linkedin.com/in/yourprofile">💼 LinkedIn</a> |
-  <a href="https://twitter.com/yourhandle">🐦 Twitter</a>
+  <a href="#">🌐 Portfolio</a> |
+  <a href="#">📧 Email</a> |
+  <a href="#">💼 LinkedIn</a> |
+  <a href="#">🐦 Twitter</a>
+  <a href="#">Facebook</a>
 </p>
 
 ---
@@ -36,7 +37,7 @@
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
 
 ---
-
+<!--
 ### 📂 Projects
 
 Here are some of my favorite projects:
@@ -68,7 +69,7 @@ Here are some of my favorite projects:
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
+-->
 
 
 <!--
