@@ -16,7 +16,7 @@
 - 🌱 I’m learning: **[Technologies you're currently learning]**
 - 👯 I’m looking to collaborate on: **Open Source Projects**
 - 💬 Ask me about: **Web Development, PHP, JavaScript, MySQL, or anything tech-related**
-- 📫 How to reach me: **youremail@example.com**
+- 📫 How to reach me: **devithdul23@example.com**
 - ⚡ Fun fact: *[Insert a fun or unique fact about you]*
 
 ---
